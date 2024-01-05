@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian;
-- 👀 I’m interested in backend tecnologies;
+- 👀 I’m interested in Java;
 - 🌱 I’m currently learning; 
 <!---
 MateCosido/MateCosido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
